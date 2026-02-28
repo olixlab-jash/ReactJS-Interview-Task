@@ -100,9 +100,9 @@ Each product must show:
 
 ---
 
-## **3️⃣ Cart Functionality (Using Redux)**
+## **3️⃣ Cart Functionality (Using Redux - recommended)**
 
-Use **Redux Toolkit** or simple API.
+Use **Redux Toolkit** or simple API or local storage.
 
 ### Cart Must Support:
 
