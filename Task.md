@@ -102,7 +102,7 @@ Each product must show:
 
 ## **3️⃣ Cart Functionality (Using Redux)**
 
-Use **Redux Toolkit** or simple Redux.
+Use **Redux Toolkit** or simple API.
 
 ### Cart Must Support:
 
@@ -117,7 +117,7 @@ Use **Redux Toolkit** or simple Redux.
 
 ## **4️⃣ Global State Management**
 
-Must use **Redux** for:
+Can use **Redux** for:
 
 * User data
 * Products
