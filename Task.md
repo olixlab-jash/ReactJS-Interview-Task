@@ -12,7 +12,7 @@ This app should include **product listing, pagination, search, filtering, add-to
 ---
 # **Task Rules & Restrictions**
 
-*  Can you use AI tools(ChatGpt, Google Gemini, etc..) for writing code, but not AI-IDEs
+*  You cannot use AI tools(ChatGpt, Google Gemini, etc..) for writing code.
 *  Using Google Search for documentation
 *  Referring to StackOverflow for troubleshooting
 *  Reading official documentation
